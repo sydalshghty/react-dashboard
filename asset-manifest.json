@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-dashboard/static/css/main.34c891ad.css",
-    "main.js": "/react-dashboard/static/js/main.d49ab901.js",
+    "main.js": "/react-dashboard/static/js/main.f1c2daa6.js",
     "static/media/61GsnUB4HuL 2 (2).png": "/react-dashboard/static/media/61GsnUB4HuL 2 (2).b9abd231c19340e4907f.png",
     "static/media/61GsnUB4HuL 2 (4).png": "/react-dashboard/static/media/61GsnUB4HuL 2 (4).957fb3d85bb5c48a652a.png",
     "static/media/Group 350.svg": "/react-dashboard/static/media/Group 350.7f00c1ae0bdab23702b4c8fc33c5335c.svg",
@@ -29,10 +29,10 @@
     "static/media/Vector (3).svg": "/react-dashboard/static/media/Vector (3).cb0a0dbbc0f2725c5d69a2dd8e4b2f00.svg",
     "static/media/factory.CSS": "/react-dashboard/static/media/factory.4564721d3d9dd550dea0.CSS",
     "main.34c891ad.css.map": "/react-dashboard/static/css/main.34c891ad.css.map",
-    "main.d49ab901.js.map": "/react-dashboard/static/js/main.d49ab901.js.map"
+    "main.f1c2daa6.js.map": "/react-dashboard/static/js/main.f1c2daa6.js.map"
   },
   "entrypoints": [
     "static/css/main.34c891ad.css",
-    "static/js/main.d49ab901.js"
+    "static/js/main.f1c2daa6.js"
   ]
 }
